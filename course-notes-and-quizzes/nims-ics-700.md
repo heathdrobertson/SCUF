@@ -1,10 +1,16 @@
+---
+description: An Introduction to the National Incident Management System
+---
+
 # NIMS-ICS 700
 
 {% file src="../.gitbook/assets/smis0700b.pdf" %}
 
-ICS 700 Exam Sample Exam
+{% embed url="https://youtu.be/Vu4f8C4a1ws" %}
 
-## ICS-700-Exam
+
+
+### Exam
 
 **1. Which NIMS Management Characteristic includes maintaining accurate and up-to-date inventories of personnel, equipment, teams, and supplies?**&#x20;
 
@@ -196,7 +202,7 @@ D. Planning, response, recovery.
 
 ***
 
-## Sample-Exam
+### Sample-Exam
 
 **An Introduction to the National Incident Management System (NIMS)**
 

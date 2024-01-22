@@ -1,12 +1,16 @@
+---
+description: Introduction to the Incident Command System
+---
+
 # NIMS-ICS 100
 
 {% file src="../.gitbook/assets/IS0100c_SM.pdf" %}
 
+{% embed url="https://youtu.be/Vu4f8C4a1ws" %}
+
 ## FEMA IS-100C
 
-**Incident Command System (ICS), An Introduction**
-
-## ICS-100-Exam
+### Exam
 
 ***
 
@@ -183,7 +187,9 @@ B. Operations Section Chief\
 C. Logistics Section Chief\
 D. Planning Section Chief
 
-## Sample-Exam
+
+
+### Sample-Exam
 
 ***
 
