@@ -9,5 +9,5 @@
 * [Course Notes & Quizzes](course-notes-and-quizzes/README.md)
   * [NIMS-ICS 100](course-notes-and-quizzes/nims-ics-100.md)
   * [NIMS-ICS 700](course-notes-and-quizzes/nims-ics-700.md)
-  * [IS-5.A](course-notes-and-quizzes/is-5.a.md)
-  * [Chapter 1](course-notes-and-quizzes/chapter-1.md)
+  * [IS-5.A](course-notes-and-quizzes/is-5.a/README.md)
+    * [Glossary](course-notes-and-quizzes/is-5.a/glossary.md)
