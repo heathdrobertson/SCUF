@@ -1,3 +1,7 @@
+---
+description: Review for state exam.
+---
+
 # HazMat YouTube Video
 
 {% embed url="https://youtu.be/rui_9gXAD7Q" fullWidth="true" %}
