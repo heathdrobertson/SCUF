@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Reference Materials](README.md)
+  * [HazMat YouTube Video](reference-materials/hazmat-youtube-video.md)
 * [2024 Syllabus](2024-syllabus.md)
 * [Academy Notes](academy-notes/README.md)
   * [January 6th](academy-notes/january-6th.md)
