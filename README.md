@@ -4,7 +4,7 @@
 
 ***
 
-## Online Course Work
+## Online
 
 * FEMA - Emergency Management Institute
   * [ICS 100](https://training.fema.gov/is/courseoverview.aspx?code=IS-100.c\&lang=en)
@@ -15,9 +15,28 @@
 
 ***
 
-## Study Resources
+## Videos
 
 * NIMS/ICS Video ([https://youtu.be/Vu4f8C4a1ws](https://youtu.be/Vu4f8C4a1ws)) (30 min - Youtube)&#x20;
 * HazMat Operations Video ([https://youtu.be/rui\_9gXAD7Q](https://youtu.be/rui\_9gXAD7Q)) (55 min - Youtube)&#x20;
   * This is a good supplement for Introduction to Hazardous Materials, but will best assist you prior to the HazMat Operations course on February 3rd & 4th. This video mentions all subjects that you will see on your state exam (on February 4th.)
 
+
+
+## Files
+
+{% file src=".gitbook/assets/01 - 2024 SCUF Academy Training Schedule - Recruit Syllabus (RA10) (1).pdf" %}
+
+{% file src=".gitbook/assets/02 - 2024 SCUF Academy Training Schedule - Recruit Syllabus (RA10).pdf.pdf" %}
+
+{% file src=".gitbook/assets/2024 Wyoming Fire Academy Wildland Class Schedule.pdf" %}
+
+{% file src=".gitbook/assets/IS0100c_SM.pdf" %}
+
+{% file src=".gitbook/assets/smis0700b.pdf" %}
+
+{% file src=".gitbook/assets/haz-mat.pdf" %}
+
+{% file src=".gitbook/assets/HazMat Operations Review.docx" %}
+
+{% file src=".gitbook/assets/01 - 2024 SCUF Academy Training Schedule - Recruit Syllabus (RA10).pdf" %}
