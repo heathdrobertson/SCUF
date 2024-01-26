@@ -6,7 +6,7 @@ description: Includes Recruit Academy & Supplemental Training Dates
 
 
 
-{% file src=".gitbook/assets/01 - 2024 SCUF Academy Training Schedule - Recruit Syllabus (RA10).pdf" %}
+{% file src="../.gitbook/assets/01 - 2024 SCUF Academy Training Schedule - Recruit Syllabus (RA10) (1).pdf" %}
 
 ## Recruit Academy [2024 Academy #10](https://app.gitbook.com/o/Zjrry286GAwqJApPfH2J/s/bYgYQLK0BqTbfAw5g3gV/ "mention")
 
@@ -46,7 +46,7 @@ description: Includes Recruit Academy & Supplemental Training Dates
 
 ***
 
-{% file src=".gitbook/assets/02 - 2024 SCUF Academy Training Schedule - Recruit Syllabus (RA10).pdf.pdf" %}
+{% file src="../.gitbook/assets/02 - 2024 SCUF Academy Training Schedule - Recruit Syllabus (RA10).pdf.pdf" %}
 
 ## Recruit Academy Syllabus:&#x20;
 
@@ -91,4 +91,3 @@ Recruit academy is a six-month blended (online & in-person) training program to 
 * June 1: Firefighter I Skills- LIVE FIRE (Fire Behavior & Fire Suppression)&#x20;
 * TBD: Graduation Ceremony (June 17th or 24th)&#x20;
 * \*May 10/May 13: EXAM NIGHTS (Upon completion of the curriculum and hands-on training, recruits will complete a 100-question (multiple choice) exam to receive certification.
-*

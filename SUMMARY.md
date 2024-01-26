@@ -1,14 +1,23 @@
 # Table of contents
 
 * [Reference Materials](README.md)
-  * [HazMat YouTube Video](reference-materials/hazmat-youtube-video.md)
-* [2024 Syllabus](2024-syllabus.md)
-* [Academy Notes](academy-notes/README.md)
-  * [January 6th](academy-notes/january-6th.md)
-  * [January 20th](academy-notes/january-20th.md)
-  * [February 3rd & 4th](academy-notes/february-3rd-and-4th.md)
-* [Course Notes & Quizzes](course-notes-and-quizzes/README.md)
-  * [NIMS-ICS 100](course-notes-and-quizzes/nims-ics-100.md)
-  * [NIMS-ICS 700](course-notes-and-quizzes/nims-ics-700.md)
-  * [IS-5.A](course-notes-and-quizzes/is-5.a/README.md)
-    * [Glossary](course-notes-and-quizzes/is-5.a/glossary.md)
+  * [2024 Syllabus](reference-materials/2024-syllabus.md)
+
+## Academy Notes
+
+* [January 6th](academy-notes/january-6th.md)
+* [January 20th](academy-notes/january-20th.md)
+* [February 3rd & 4th](academy-notes/february-3rd-and-4th.md)
+
+## Study Materials
+
+* [Hazardous Materials Operations](study-materials/hazardous-materials-operations/README.md)
+  * [YouTube Video](study-materials/hazardous-materials-operations/youtube-video.md)
+* [NFPA Firefighter I](study-materials/nfpa-firefighter-i.md)
+
+## Online Materials
+
+* [NIMS-ICS 100](online-materials/nims-ics-100.md)
+* [NIMS-ICS 700](online-materials/nims-ics-700.md)
+* [IS-5.A](online-materials/is-5.a/README.md)
+  * [Glossary](online-materials/is-5.a/glossary.md)
