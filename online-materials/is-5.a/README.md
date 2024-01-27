@@ -8,6 +8,10 @@ description: An Introduction to Hazardous Materials
 
 ## Course Questions
 
+
+
+### HAZARDOUS MATERIALS LEGISLATION
+
 ...That evening, several neighborhood leaders get together and compare notes on the problems at the plant. Concerns are expressed about the now-frequent odor of ammonia, and the effects it may be having on the local community.
 
 _The neighborhood leaders decide to hold a community meeting to share perspectives on the situation and determine what additional steps should be taken. If you were among this group of neighborhood leaders:_
@@ -117,4 +121,8 @@ The Environmental Protection Agency
 The Department of Labor
 
 
+
+***
+
+### HAZARDOUS MATERIALS IDENTIFICATION SYSTEMS
 
