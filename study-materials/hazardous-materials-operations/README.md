@@ -8,6 +8,16 @@ We don't have the book referenced in the PDF below.  **Use the IFSTA Essentials 
 Official State Study Guide
 {% endfile %}
 
+
+
+<figure><img src="../../.gitbook/assets/hazmat-poster.jpg" alt=""><figcaption></figcaption></figure>
+
+<div data-full-width="true">
+
+<figure><img src="../../.gitbook/assets/Hazard_Classes.webp" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 ## IS-5.A Online
 
 [is-5.a](../../online-materials/is-5.a/ "mention")
