@@ -211,5 +211,74 @@ Results of Commodity Flow Surveys which outline the types of hazardous materials
 
 ### IDENTIFYING HAZARDOUS MATERIALS
 
-117 of 203
+HazMat Teaser Consider the five phases of the life cycle of a hazardous material—production, transportation, storage, use, and disposal. Based on the map shown below, where in this community do you see a potential for a hazard to develop? A map is needed for this exercise. If you are visually impaired, please have a sighted person assist with this exercise.
+
+<div data-full-width="true">
+
+<figure><img src="../../.gitbook/assets/hazmat-quiz-map.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+
+
+1. During production?
+   1. During production, a hazard could exist at Chemex Industries (located on Route 107).
+2. During transportation?
+   1. During transportation, a hazard might be found on any of the roadways, at the airport, along the Pacific Railroad, and along the Petrolux Pipeline. A special hazard may exist along the Petrolux Pipeline where it crosses the Allen Marshlands.
+3. Durnig storage?
+   1. During storage, possible hazards could be found at the gas station, at Miller’s Warehouse, and at Chemex Industries.
+4. During use?
+   1. During use, hazards could exist at Chemex Industries, the high school and elementary school, the nursing home, and at the Central City Airport.
+5. During disposal?
+   1. During disposal, the Hidden Mounds Landfill could contain a hazard as the result of improperly discarded materials.
+
+
+
+1. The \_\_\_\_\_\_\_\_\_\_ usually prepares the SDS of a hazardous substance:
+   * [ ] &#x20;The supplier or the shipper
+   * [ ] The end user or the buyer
+   * [ ] The shipper or the receiver&#x20;
+   * [x] The manufacturer or distributor
+2. To inform workers of hazards a chemical may pose, OSHA requires employers to develop a:
+   * [ ] Hazardous Materials Program
+   * [ ] Hazardous Waste Program
+   * [ ] Worker Right to Know Program&#x20;
+   * [x] Hazard Communication Program
+3. Health hazards of a given chemical would be found in what section of the SDS?
+   * [ ] Section IV
+   * [ ] Section VIII
+   * [ ] Section II
+   * [x] Section VI
+4. Personal protective clothing and equipment for safe handling of the chemical would be discussed in what section of the SDS?
+   * [ ] &#x20;Section II&#x20;
+   * [x] Section VIII
+   * [ ] Section VI
+   * [ ] Section IV
+5. Permissible exposure limits are levels of exposures mandated by:
+   * [ ] USCG
+   * [ ] ACGIH
+   * [x] OSHA
+   * [ ] EPA
+6. OSHA’s PEL for hydrogen fluoride (HF) is?
+   * [ ] 1.5 ppm
+   * [x] 3.0 ppm
+   * [ ] 1.0 mg/m³
+   * [ ] 2.0 mg/m³
+7. National Priorities List (NPL) are dangerous sites targeted for cleanup under:
+   * [x] &#x20;Superfund Act
+   * [ ] Environmental Protection Act
+   * [ ] Resource Conservation and Recovery Act
+   * [ ] Hazardous Materials Transportation Act
+
+
+
+## HAZARDOUS MATERIALS AND HUMAN HEALTH
+
+145 of 209
+
+
+
+
+
+
 
