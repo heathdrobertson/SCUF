@@ -272,9 +272,63 @@ HazMat Teaser Consider the five phases of the life cycle of a hazardous material
 
 
 
-## HAZARDOUS MATERIALS AND HUMAN HEALTH
+### HAZARDOUS MATERIALS AND HUMAN HEALTH
 
-145 of 209
+
+
+The driver of a gasoline tanker unloading at a local service station leaves his truck unattended for a short period of time. When the driver returns to his truck, he finds that the service station’s underground storage tank has overflowed and more than 1,000 gallons of gasoline are covering the ground and flowing down the street.
+
+A strong odor of gasoline covers the entire spill area and extends downwind for several blocks. People who live downwind of the incident notice the gasoline odor and become concerned: a well driller in the area reports the odor to the local 911 dispatch center, a nursing home in the area starts to move patients inside from an outdoor recreation yard, and teachers from a nearby elementary school begin to bring students indoors from recess. The driver of the tanker works furiously to shut off the truck’s delivery valves to halt the overflow; in the process, his pants and shoes become drenched with gasoline. Down the street from the service station, the gasoline is running into a roadside drainage ditch and soaking into the ground. Some of the product has also reached a small stream that flows through the area.
+
+1. &#x20;_How would you assess the risk from this incident? What are some of the things to take into account when making your risk assessment?_
+   1. The risk from this incident would have to be rated as high. Factors to be considered in your risk evaluation are: the presence of a school and a nursing home nearby, and the service station’s location in a residential area. The material involved is highly flammable, and a significant quantity of it has spilled onto the ground. In addition, gasoline can produce toxic effects even in relatively small quantities.
+2. What routes of exposure might affect the people downwind of the spill? What routes of exposure might affect the driver of the tanker?
+   1. The primary route of entry of immediate concern for people downwind of the spill would be inhalation. For the driver of the tanker, the routes of concern would be inhalation (from the vapors produced by the material on the ground and on his clothes) and direct skin absorption.
+3. . Does the potential of a long-term exposure threat exist? If so, what type of exposure would this be?
+   1. Yes, there is a potential for a long-term exposure threat. Since the gasoline is soaking into the ground along the side of the street, the potential exists for groundwater contamination. We know that there are wells in the area of the spill, so this groundwater contamination could result in a long-term exposure threat due to the ingestion of gasoline-contaminated water. In addition, if the contaminated ground is not removed or treated, the affected soil could present another possible long-term exposure threat.
+4. What transport media (air, surface water, groundwater, soil) are involved in this incident? How are they involved?
+   1. All transport media are involved in this case. The air is involved due to the volatilization of the gasoline that spilled. Soil became involved as the gasoline flowed into the roadside ditch. The groundwater has become involved due to the gasoline soaking into the ground. Finally, surface water has become involved due to the gasoline reaching the small stream that flows through the area.
+5. Do the people in the nursing home and the students in the elementary school face any increased threats from exposure to gasoline fumes? If so, why?
+   1. Yes, these two groups face an increased threat from the gasoline fumes. Hazardous chemicals usually have a greater effect on young children and the elderly, who may show signs and symptoms of toxic exposure at a lower level of exposure than other segments of the population.
+6. While spraying pesticides, a farmer wears long pants, a long-sleeved shirt, and gloves. The farmer is trying to prevent contaminants from entering the body by:
+   * [x] &#x20;Absorption
+   * [ ] Inhalation
+   * [ ] Ingestion
+   * [ ] Injection
+7. Midnight dumpers have been leaving toxic waste in an illegal dumpsite in the woods. The soil beneath the waste is highly porous. A nearby house has a well, which taps into this porous soil. Based on this limited information, through what medium is the well most likely to become contaminated?
+   * [x] &#x20;Groundwater
+   * [ ] Air
+   * [ ] Soil
+   * [ ] Surface water
+8. You spill a toxic substance; you cough, and your eyes immediately begin to water. You are experiencing what type of exposure?
+   * [ ] Chronic (Long term exposure)
+   * [x] Acute (Short exposure)
+9. You have just learned that a chemical you work with is a teratogen. What effect does this chemical have?
+   * [ ] &#x20;Causes a permanent change in the genetic material (DNA)
+   * [ ] Irritates the lining of the throat
+   * [x] Increases the risk of physical defects in a developing embryo
+   * [ ] Increases the risk of cancer
+10. When you are about to have a serious operation, the anesthetist is likely to use a substance which is:
+    * [ ] An irritant
+    * [ ] A corrosive
+    * [ ] An asphyxiant
+    * [x] A CNS (central nervous system) depressant
+11. Which of these groups would be likely to have the most extreme reaction to most types of toxic exposure?
+    * [x] Children
+    * [ ] Adult men
+    * [ ] Adult women
+    * [ ] Adolescents
+12. Groundwater is least likely to be contaminated under what circumstances?
+    * [x] The groundwater is protected by a relatively impermeable protective layer, such as clay
+    * [ ] The waste is confined by an aged underground storage tank
+    * [ ] The contaminants are highly soluble
+    * [ ] The contaminants are persistent
+
+
+
+### PREPARING FOR HAZARDOUS MATERIALS INCIDENTS
+
+
 
 
 
