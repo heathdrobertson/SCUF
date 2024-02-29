@@ -1,43 +1,34 @@
 # CH 4
 
-Materials that burn at normal oxygen levels will burn more intensely in \_\_\_\_\_ atmospheres.Question 1Select one:a.oxygen-enrichedb.oxygen-deficientc.nonflamingd.flaming
+#### Question 1
 
-**Feedback**
+Materials that burn at normal oxygen levels will burn more intensely in \_\_\_\_\_ atmospheres.
 
-See Page 143\
+a. oxygen-enriched
 
+b. oxygen-deficient
 
-The correct answer is: oxygen-enriched
+c. non-flaming
+
+d. flaming
+
+See Page 143 - The correct answer is: oxygen-enriched
 
 #### Question 2
 
-Correct1 points out of 1![](https://moodle.ifsta.org/theme/image.php/ifsta/core/1708659022/i/unflagged)Flag question
+Which element of the fire tetrahedron is included to explain flaming (gas-phase) combustion?
 
-**Question text**
+a. Chemical chain reaction | b. Oxygen | c. Fuel | d. Heat
 
-Which element of the fire tetrahedron is included to explain flaming (gas-phase) combustion?Question 2Select one:a.Chemical chain reactionb.Oxygenc.Fueld.Heat
-
-**Feedback**
-
-See Page 120\
-
-
-The correct answer is: Chemical chain reaction
+See Page 120 - The correct answer is: Chemical chain reaction
 
 #### Question 3
 
-Correct1 points out of 1![](https://moodle.ifsta.org/theme/image.php/ifsta/core/1708659022/i/unflagged)Flag question
+In most compartment fires, the energy release in fire is directly proportional to the:
 
-**Question text**
+a.amount of fuel available for combustion. | b.ambient temperature of the environment. | c.amount of oxygen available for combustion. | d.thermal conductivity of the fuel.
 
-In most compartment fires, the energy release in fire is directly proportional to the:Question 3Select one:a.amount of fuel available for combustion.b.ambient temperature of the environment.c.amount of oxygen available for combustion.d.thermal conductivity of the fuel.
-
-**Feedback**
-
-See Page 140\
-
-
-The correct answer is: amount of oxygen available for combustion.
+See Page 140 - The correct answer is: amount of oxygen available for combustion.
 
 #### Question 4
 
