@@ -15,6 +15,7 @@
   * [YouTube Video](study-materials/hazardous-materials-operations/youtube-video.md)
 * [NFPA Firefighter I](study-materials/nfpa-firefighter-i/README.md)
   * [CH 4](study-materials/nfpa-firefighter-i/ch-4.md)
+  * [CH 5](study-materials/nfpa-firefighter-i/ch-5.md)
 
 ## Online Materials
 
