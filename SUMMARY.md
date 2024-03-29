@@ -18,6 +18,7 @@
   * [CH 5](study-materials/nfpa-firefighter-i/ch-5.md)
   * [Ch 6](study-materials/nfpa-firefighter-i/ch-6.md)
   * [CH 7](study-materials/nfpa-firefighter-i/ch-7.md)
+  * [CH 8](study-materials/nfpa-firefighter-i/ch-8.md)
 
 ## Online Materials
 
