@@ -40,3 +40,6 @@
 {% file src=".gitbook/assets/HazMat Operations Review.docx" %}
 
 {% file src=".gitbook/assets/01 - 2024 SCUF Academy Training Schedule - Recruit Syllabus (RA10).pdf" %}
+
+---
+# SCUF Firefighter Resources
