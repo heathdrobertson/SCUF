@@ -1,28 +1,20 @@
 # Table of contents
 
-* [Reference Materials](README.md)
-  * [2024 Syllabus](reference-materials/2024-syllabus.md)
+* [Regular Training](README.md)
+* [Materials](materials/README.md)
+  * [SOP](https://sublettewyo.org/DocumentCenter/View/1362)
 
-## Academy Notes
+## 2024 Training
 
-* [January 6th](academy-notes/january-6th.md)
-* [January 20th](academy-notes/january-20th.md)
-* [February 3rd & 4th](academy-notes/february-3rd-and-4th.md)
+* [Wed - Jan 17](2024-training/wed-jan-17.md)
+* [Wed - Feb 7](2024-training/wed-feb-7.md)
+* [Wed - Feb 21](2024-training/wed-feb-21.md)
 
-## Study Materials
+## All Hazards
 
-* [Hazardous Materials Operations](study-materials/hazardous-materials-operations/README.md)
-  * [YouTube Video](study-materials/hazardous-materials-operations/youtube-video.md)
-* [NFPA Firefighter I](study-materials/nfpa-firefighter-i/README.md)
-  * [CH 4](study-materials/nfpa-firefighter-i/ch-4.md)
-  * [CH 5](study-materials/nfpa-firefighter-i/ch-5.md)
-  * [Ch 6](study-materials/nfpa-firefighter-i/ch-6.md)
-  * [CH 7](study-materials/nfpa-firefighter-i/ch-7.md)
-  * [CH 8](study-materials/nfpa-firefighter-i/ch-8.md)
-
-## Online Materials
-
-* [NIMS-ICS 100](online-materials/nims-ics-100.md)
-* [NIMS-ICS 700](online-materials/nims-ics-700.md)
-* [IS-5.A](online-materials/is-5.a/README.md)
-  * [Glossary](online-materials/is-5.a/glossary.md)
+* [Structure](all-hazards/structure/README.md)
+  * [SLICERS](all-hazards/structure/slicers.md)
+* [Wildland](all-hazards/wildland.md)
+* [Vehicle](all-hazards/vehicle/README.md)
+  * [ Electric / Hybrid Vehicle Fires](https://www.dropbox.com/scl/fi/2hc6t0eequ69dxwlkghg9/EV-Fire-Presentation-07282025.pdf?rlkey=ldy07p29ancioq1tohgvhzoxj\&st=kcr32is9\&dl=0)
+* [HazMat](all-hazards/hazmat.md)
